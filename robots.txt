@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://upjhru.github.io/sitemap.html.gz
+Sitemap: https://upjhru.github.io/app/sitemap.html.gz
+Sitemap: https://upjhru.github.io/assets/sitemap.html.gz
+Sitemap: https://upjhru.github.io/css/sitemap.html.gz
+Sitemap: https://upjhru.github.io/data/sitemap.html.gz
+Sitemap: https://upjhru.github.io/includes/sitemap.html.gz
+Sitemap: https://upjhru.github.io/item/sitemap.html.gz
+Sitemap: https://upjhru.github.io/src/sitemap.html.gz
